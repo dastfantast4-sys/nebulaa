@@ -4,10 +4,6 @@
 
 ![stack](https://img.shields.io/badge/stack-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-7c3aed)
 
-## Live Demo
-
-🔗 [Магазин](https://dastfantast4-sys.github.io/nebula/) · [Админка](https://dastfantast4-sys.github.io/nebula/admin.html)
-
 ## Фишки
 
 - **Мгновенная фильтрация** по категориям — с плавным fade-out / fade-in, без перезагрузки.
